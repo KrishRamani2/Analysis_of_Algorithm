@@ -1,4 +1,4 @@
-# Analsis_of_Algorithm
+# Analysis_of_Algorithm
 This includes programmes on:-
 1]Linear Search
 2]Big O Notation
